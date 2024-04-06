@@ -1,0 +1,10 @@
+var stu1 = ["Adarsh", "Aman", "Aashish"];
+var stu2 = stu1.concat("Vikrant", "Rohit");
+console.log(stu1);
+console.log(stu2);
+var data1 = ["Adarsh", "Aman", "Aashish"];
+var data2 = ["Vikrant", "Rohit", "Dheeraj"];
+var newdata = data1.concat(data2);
+console.log(data1);
+console.log(data2);
+console.log(newdata);

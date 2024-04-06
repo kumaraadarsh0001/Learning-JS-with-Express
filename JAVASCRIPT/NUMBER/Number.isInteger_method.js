@@ -1,0 +1,14 @@
+var a = 100;
+var b = -123;
+var c = 1423.342;
+var d = 132 - 43;
+var e = 0.2;
+var f = "2347";
+var g = "Adarsh";
+console.log(Number.isInteger(a));
+console.log(Number.isInteger(b));
+console.log(Number.isInteger(c));
+console.log(Number.isInteger(d));
+console.log(Number.isInteger(e));
+console.log(Number.isInteger(f));
+console.log(Number.isInteger(g));

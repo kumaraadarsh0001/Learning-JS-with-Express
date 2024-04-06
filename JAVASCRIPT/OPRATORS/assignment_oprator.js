@@ -1,0 +1,14 @@
+var a = 10;
+console.log(a);
+a += 25;
+console.log(a);
+a -= 10;
+console.log(a);
+a *= 10;
+console.log(a);
+a /= 9;
+console.log(a);
+a %= 3;
+console.log(a);
+a **= 5;
+console.log(a);

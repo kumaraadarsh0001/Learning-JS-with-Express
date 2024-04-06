@@ -1,0 +1,14 @@
+var a = true;
+var b = false;
+var c = 100;
+var d = "100";
+var e = "Hello";
+var f = "2347";
+var g = new Date();
+console.log(Number(a));
+console.log(Number(b));
+console.log(Number(c));
+console.log(Number(d));
+console.log(Number(e));
+console.log(Number(f));
+console.log(Number(g));

@@ -1,0 +1,18 @@
+\0
+for Null charactor
+\'
+for single quote
+\"
+for double quote 
+\n
+for new line
+\r
+for carriage return
+\v
+for vertical tab
+\t
+for tab
+\b 
+for backspace 
+\f
+form feed

@@ -1,0 +1,11 @@
+console.log(parseInt("10"));
+console.log(parseInt("12.00"));
+console.log(parseInt("234.234214"));
+console.log(parseInt("123 1234 1234"));
+console.log(parseInt("  09  "));
+console.log(parseInt("10 year"));
+console.log(parseInt("year 10"));
+console.log(parseInt("0320"));
+console.log(parseInt("12", 8));
+console.log(parseInt("0*12"));
+console.log(parseInt("10", 16));

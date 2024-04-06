@@ -1,0 +1,12 @@
+var a = Boolean(-10);
+console.log(a);
+var b = Boolean(0);
+console.log(b);
+var c = Boolean(-0);
+console.log(c);
+var d = Boolean(NaN);
+console.log(d);
+var e = Boolean(null);
+console.log(e);
+var f = Boolean(undefined);
+console.log(f);

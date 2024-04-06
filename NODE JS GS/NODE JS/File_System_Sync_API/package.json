@@ -1,0 +1,13 @@
+{
+  "name": "file_system_sync_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "File_System_Sync_API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
